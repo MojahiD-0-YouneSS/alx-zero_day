@@ -1,2 +1,6 @@
+0x03-git/bash/alx
+>>>>>> HEAD
+ echo "ALX School is so cool!"
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  echo "ALX School is so cool!"
 >>>>>>> update_script
